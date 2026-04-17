@@ -1,3 +1,3 @@
-from ui.main_window import MainWindow, UploadWorker
+from ui.main_window import MainWindow
 
-__all__ = ["MainWindow", "UploadWorker"]
+__all__ = ["MainWindow"]
